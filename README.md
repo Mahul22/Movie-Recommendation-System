@@ -9,12 +9,7 @@ The downside of content-based filtering is that the system is limited to recomme
 
 
 
-## Project Work Flow :
 
-### Step 1: Data collection.
-### Step 2: Preprocessing Our Data.
-### Step 3: Building the Model for prediction.
-### Step 4: Making it on web app with the help of streamlit
 
 ## Demo:
 
