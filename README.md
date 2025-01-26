@@ -1,5 +1,5 @@
 # Movie-Recommender-System-With-Streamlit.
-In This Project I am going to build a movie recommendation system project and then build a model and then build an app using streamlit.
+In This Project I am going to build a movie recommendation system project and then build a model and then build an interactive app using streamlit.
 There are three main types of recommendation engines that are used here: collaborative filtering, content-based filtering – and a hybrid of the two. 
 
 Collaborative filtering focuses on collecting and analyzing data on user behavior, activities, and preferences, to predict what a person will like, based on their similarity to other users.
